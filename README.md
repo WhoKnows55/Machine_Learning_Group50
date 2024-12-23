@@ -32,7 +32,7 @@ Our journey was not just about building a model; it was about creating a compreh
 - `ML_Project_Group50_DataExp&Prep.ipynb` covers the initial phases of data exploration and preprocessing.
 - `ML_Project_Group50_AgreementReached.ipynb` demonstrates a standalone prediction workflow.
 - `ML_Project_Group50_Exodia.ipynb` consolidates preprocessing, modeling, evaluation, and insights from the open-ended section.
-- Web Application: The file `WebApp.py` enables further exploration and analysis, supported by documentation in WebApp_README.txt.
+- Web Application: The file `WebApp.py` enables further exploration and analysis, supported by documentation in `WebApp_README.txt`.
   
 **Project Report:** The methodology, challenges, and outcomes are embedded throughout the files, with the open-ended section providing additional insights for future improvements.
 
