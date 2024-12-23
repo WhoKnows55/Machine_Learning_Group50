@@ -24,14 +24,16 @@ Each member contributed their unique skills to the project, from data exploratio
 
 ## 📊 Project Deliverables
 
-Our journey was not just about building a model; it was about creating a comprehensive solution that could be utilized, evaluated, and enhanced over time. Our deliverables include:
+Our journey was not just about building a model; it was about creating a comprehensive solution that could be utilized, evaluated, and enhanced over time. Our **final** deliverables include:
 
-**Machine Learning Model:** The classification model, developed to predict whether a claim should be granted based on the injury type, is encapsulated in the file XGB_Optuna.pkl, which is essential for advanced evaluations and application in the open-ended section.
+**Machine Learning Model:** The classification model, developed to predict whether a claim should be granted based on the injury type, is encapsulated in the file `XGB_Optuna.pkl`, which is essential for advanced evaluations and application in the open-ended section.
+
 **Jupyter Notebooks:** The project includes three key notebooks:
-- ML_Project_Group50_DataExp&Prep.ipynb covers the initial phases of data exploration and preprocessing.
-- ML_Project_Group50_AgreementReached.ipynb demonstrates a standalone prediction workflow.
-- ML_Project_Group50_Exodia.ipynb consolidates preprocessing, modeling, evaluation, and insights from the open-ended section.
-- Web Application: The file WebApp.py enables further exploration and analysis, supported by documentation in WebApp_README.txt.
+- `ML_Project_Group50_DataExp&Prep.ipynb` covers the initial phases of data exploration and preprocessing.
+- `ML_Project_Group50_AgreementReached.ipynb` demonstrates a standalone prediction workflow.
+- `ML_Project_Group50_Exodia.ipynb` consolidates preprocessing, modeling, evaluation, and insights from the open-ended section.
+- Web Application: The file `WebApp.py` enables further exploration and analysis, supported by documentation in WebApp_README.txt.
+  
 **Project Report:** The methodology, challenges, and outcomes are embedded throughout the files, with the open-ended section providing additional insights for future improvements.
 
 ## 🔄 Our Approach: A Data Science Journey with CRISP-DM
